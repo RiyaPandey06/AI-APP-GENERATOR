@@ -1,6 +1,6 @@
 # DynamicAI Builder
 
-Full Stack Engineer submission for Track A: AI App Generator.
+
 
 DynamicAI Builder is a metadata-driven application runtime that converts JSON configuration into a working application surface with generated UI, user-scoped APIs, persisted records, validation, workflows, and graceful handling of broken configs.
 
